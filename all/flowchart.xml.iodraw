@@ -16,13 +16,8 @@
         <mxCell id="CWpkUbNAlexXII8rcJjm-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;传感器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312.5" y="151.25" width="115" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="CWpkUbNAlexXII8rcJjm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CWpkUbNAlexXII8rcJjm-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CWpkUbNAlexXII8rcJjm-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="390" width="490" height="170" as="geometry" />
+          <mxGeometry x="150" y="390" width="490" height="190" as="geometry" />
         </mxCell>
         <mxCell id="CWpkUbNAlexXII8rcJjm-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;驱&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;动&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;层&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="422.5" width="50" height="105" as="geometry" />
