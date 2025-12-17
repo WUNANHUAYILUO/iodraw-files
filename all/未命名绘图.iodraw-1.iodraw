@@ -16,8 +16,14 @@
         <mxCell id="KDkhjnsAMoRKwb8LnCo7-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KDkhjnsAMoRKwb8LnCo7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KDkhjnsAMoRKwb8LnCo7-4" target="KDkhjnsAMoRKwb8LnCo7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KDkhjnsAMoRKwb8LnCo7-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDkhjnsAMoRKwb8LnCo7-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
