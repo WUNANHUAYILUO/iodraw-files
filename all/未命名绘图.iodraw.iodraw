@@ -7,8 +7,11 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kMPke5DnvT1HvAwwb0io-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="kMPke5DnvT1HvAwwb0io-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;pre style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-wrap: normal; font-feature-settings: normal; font-size: 1em; font-variation-settings: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #a9d6ff; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); word-break: normal; hyphens: none; line-height: 1.5; tab-size: 4; overflow: auto; border-radius: 6px; overflow-anchor: auto; width: fit-content; text-align: start;&quot; tabindex=&quot;0&quot; class=&quot;container-S2LAkl language-plaintext&quot;&gt;&lt;code style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-size: 13px; font-variation-settings: normal; background: transparent; border-radius: 4px; color: rgba(0, 0, 0, 0.85); word-break: normal; word-spacing: normal; overflow-wrap: normal; hyphens: none; line-height: 1.5; tab-size: 4; overflow-anchor: auto;&quot; class=&quot;language-plaintext&quot;&gt;STC15W4K32S4&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -44,6 +47,9 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kMPke5DnvT1HvAwwb0io-0" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
